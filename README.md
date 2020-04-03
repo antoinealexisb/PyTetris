@@ -8,7 +8,7 @@ Just for Python3.
 The version is 8.6 for tkinter.
 
 ```sh
-$ git https://github.com/antoinealexisb/PyTetris.git
+$ git clone https://github.com/antoinealexisb/PyTetris.git
 $ cd PyTetris
 
 $ pip3 install -r requirements.txt
